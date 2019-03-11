@@ -1,1 +1,1 @@
-Welcome to the TAG Study scripts!
+Welcome to the TAG DSD scripts! This repo contains all the scripts used for the manuscript "Getting to know me better: An fMRI study of intimate and superficial self-disclosure to friends during adolescence". Preprint available at: https://psyarxiv.com/h8gkc/
